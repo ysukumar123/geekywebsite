@@ -26,10 +26,40 @@ ul {
   }
 
   body {
-    
-    
     background: rgb(0,0,0);
-background: linear-gradient(34deg, rgba(0,0,0,1) 0%, rgba(13,6,110,1) 47%);
- div.box {
-     text-align:center ;
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(10,5,87,1) 53%);
+
+    h1{
+      color: #ffffff;
+      text-align: center;
+      background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(10,5,87,1) 53%);
+    }
+
+    h2 {
+      color: #ffffff;
+      text-align: center;
+      
+    }
+    
+ div.box  {
+    text-align:center ;
+
  } 
+
+
+}
+
+
+
+a:link {
+  color: #ffcc00;
+text-decoration:none;
+}
+a:visited {
+  color: #ffcc00;
+}
+
+a:hover {
+  color: #cd122d;
+}
