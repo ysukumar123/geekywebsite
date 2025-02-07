@@ -70,6 +70,24 @@ h4 {
 
 }
 
+h5 {
+  font-family: Bebas Neue;
+  color: #ffffff;
+  text-align: center;
+  background: rgb(13,8,102);
+background: linear-gradient(90deg, rgba(13,8,102,1) 24%, rgba(181,3,3,1) 100%); 
+font-size: 70px; 
+
+}
+
+h6 {
+  color: #ffffff;
+  text-align: center;
+  font-family: Bebas Neue;
+  font-size: 45px;
+
+
+}
 
 }
 
