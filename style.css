@@ -35,8 +35,8 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(10,5,87,1) 53%);
       font-family: Bebas Neue;
       color: #ffffff;
       text-align: center;
-      background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(10,5,87,1) 53%);
+      background: rgb(13,8,102);
+background: linear-gradient(90deg, rgba(13,8,102,1) 24%, rgba(181,3,3,1) 100%);
 font-size: 70px; 
     }
 
@@ -51,6 +51,24 @@ font-size: 70px;
     text-align:center ;
 
  } 
+
+
+ h3 {
+  font-family: Bebas Neue;
+      color: #ffffff;
+      text-align: center;
+      background: rgb(13,8,102);
+background: linear-gradient(90deg, rgba(13,8,102,1) 24%, rgba(181,3,3,1) 100%);
+font-size: 70px; 
+ }
+
+h4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: Bebas Neue;
+  font-size: 45px;
+
+}
 
 
 }
