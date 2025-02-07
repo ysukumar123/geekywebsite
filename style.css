@@ -5,6 +5,7 @@ ul {
     overflow: hidden;
     background: rgb(162,14,14);
     background: linear-gradient(90deg, rgba(162,14,14,1) 0%, rgba(16,16,96,1) 62%);
+    font-family: Bebas Neue;
     
   }
   
@@ -19,6 +20,7 @@ ul {
     padding: 14px 155px;
     font-size: 55px;
     text-decoration: none;
+    font-family: Bebas Neue;
   }
   
   li a:hover {
@@ -30,16 +32,19 @@ ul {
 background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(10,5,87,1) 53%);
 
     h1{
+      font-family: Bebas Neue;
       color: #ffffff;
       text-align: center;
       background: rgb(0,0,0);
 background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(10,5,87,1) 53%);
+font-size: 70px; 
     }
 
     h2 {
       color: #ffffff;
       text-align: center;
-      
+      font-family: Bebas Neue;
+      font-size: 45px;
     }
     
  div.box  {
@@ -62,4 +67,8 @@ a:visited {
 
 a:hover {
   color: #cd122d;
+}
+
+html {
+  cursor: url("BAR.png"),auto;
 }
